@@ -3,6 +3,7 @@ import Navbar from './components/header/navbar/Navbar';
 import ShowCase from './components/header/showcase/ShowCase';
 import HomeInfo from './components/section/home-info/HomeInfo';
 import Features from './components/section/features/Features';
+import AboutInfo from './components/about/about-info/AboutInfo'
 import Footer from './components/footer/Footer';
 import './App.css';
 
@@ -13,6 +14,7 @@ function App() {
       <ShowCase />
       <HomeInfo />
       <Features />
+      <AboutInfo />
       <div className='clr'></div>
       <Footer />
     </div>
