@@ -56,3 +56,23 @@ p {
   background: #f7c08a;
   color: #333;
 }
+
+.btn-light {
+  background: #f4f4f4;
+  color: #333;
+}
+
+.bg-dark {
+  background: #333;
+  color: #fff;
+}
+
+.bg-light {
+  background: #333;
+  color: #fff;
+}
+
+.bg-primary {
+  background: #333;
+  color: #f7c08a;
+}
