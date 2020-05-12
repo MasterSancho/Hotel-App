@@ -68,11 +68,11 @@ p {
 }
 
 .bg-light {
-  background: #333;
-  color: #fff;
+  background: #f4f4f4;
+  color: #333;
 }
 
 .bg-primary {
-  background: #333;
-  color: #f7c08a;
+  background: #f7c08a;
+  color: #333;
 }
