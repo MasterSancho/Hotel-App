@@ -1,12 +1,13 @@
 import React from 'react';
-import Navbar from './components/header/Navbar';
+import Navbar from './components/header/navbar/Navbar';
+import ShowCase from './components/header/showcase/ShowCase'
 import './App.css';
 
 function App() {
   return (
     <div className='App'>
       <Navbar />
-      <h1>Hello World</h1>
+      <ShowCase />
     </div>
   );
 }
