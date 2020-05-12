@@ -1,7 +1,7 @@
 import React from 'react';
-import './contact.Style.css';
+import './contactUs.Style.css';
 
-const Contact = () => {
+const ContactUs = () => {
   return (
     <div className='contact-form py-3'>
       <div className='container'>
@@ -31,4 +31,4 @@ const Contact = () => {
   );
 };
 
-export default Contact;
+export default ContactUs;
